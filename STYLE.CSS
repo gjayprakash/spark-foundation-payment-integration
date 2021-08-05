@@ -122,10 +122,7 @@ main {
 #donate:focus {
     outline: none;
 }
-footer{
-    text-allign:centre;
-     background-color:green;
-}
+
 
 @media only screen and (max-width: 600px) {
     .animate {
